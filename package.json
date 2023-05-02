@@ -1,0 +1,12 @@
+{
+  "name": "bulk-str-replacer",
+  "version": "1.0.0",
+  "description": "Package for replacing any given string for all files of a given extension for any given directory path",
+  "main": "index.js",
+  "git": "github.com/Sigmen-Technologies-Solutions/bulk-str-replacer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan",
+  "license": "ISC"
+}
